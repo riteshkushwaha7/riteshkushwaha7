@@ -57,9 +57,6 @@ Here’s a tailored GitHub profile README design for you:
 ### 🌟 **Quote**
 *"Technology is best when it brings people together."* – Matt Mullenweg
 
-This includes all the details you provided and integrates animations, stats, and a dark theme. The light/dark auto-switch depends on external tools (like GitHub Readme Stats) that don’t fully support it. Let me know if you want changes!
-
-
 
 <!--
 **riteshkushwaha7/riteshkushwaha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
