@@ -1,40 +1,59 @@
-Here’s a tailored GitHub profile README design for you:
-
 <h1 align="center">Hi 👋, I'm Ritesh Kushwaha</h1>
 <h3 align="center">A passionate Web Developer and Problem Solver from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshkushwaha7&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkushwaha7" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Cybersecurity-blue" alt="Focus Badge" />
-  <img src="https://img.shields.io/github/followers/riteshkushwaha7?style=social" alt="Followers" />
+  <img src="https://github.com/riteshkushwaha7.png" alt="Ritesh Kushwaha's GitHub Profile" width="150" style="border-radius: 50%;"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&width=435&lines=Web+Developer+|+Problem+Solver;Cybersecurity+Enthusiast;Graduating+in+2027" alt="Typing Animation"/>
 </p>
 
 ---
 
-- 🔭 **I’m currently working on:**  
-  - [CodeAdept Website](https://github.com/riteshkushwaha7/Projects/tree/main/CodeAdept%208.0)  
-  - [My Portfolio](https://github.com/riteshkushwaha7/My-Portfolio)  
-
-- 🎓 **Education:**  
-  IT Student | 2nd Year @ UIT RGPV  
-  🎓 **Graduating:** 2027  
-
-- 🌱 **Interests:**  
-  - Software Development  
-  - Cybersecurity  
-
-- 📫 **How to reach me:**  
-  - **Email:** riteshkushwaha497@gmail.com  
-  - **LinkedIn:** [@riteshkushwaha7](https://linkedin.com/in/riteshkushwaha7)  
-  - **Twitter:** [@cyberrk](https://twitter.com/cyberrk)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riteshkushwaha7&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Cybersecurity-gradient?style=for-the-badge" alt="Focus Badge" />
+  <img src="https://img.shields.io/github/followers/riteshkushwaha7?style=for-the-badge" alt="Followers Badge" />
+</p>
 
 ---
 
-### 🛠️ **Skills & Tools**
-- **Programming Languages:** C++, Python, JavaScript  
-- **Frameworks & Libraries:** React, Node.js  
-- **Frontend Technologies:** HTML, CSS  
-- **Other Tools:** Ubuntu  
+### 🔭 **About Me**  
+- 🎓 **Education:** IT Student | 2nd Year @ UIT RGPV  
+- 🌱 **Interests:** Software Development & Cybersecurity  
+- 🎯 **Currently Working On:**  
+  - [CodeAdept Website](https://github.com/riteshkushwaha7/Projects/tree/main/CodeAdept%208.0)  
+  - [My Portfolio](https://github.com/riteshkushwaha7/My-Portfolio)
+
+---
+
+### 🛠️ **Skills & Tools**  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="40" />
+</p>
+
+---
+
+### 📬 **Connect With Me**  
+<p>
+  <a href="mailto:riteshkushwaha497@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/riteshkushwaha7">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/cyberrk">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
@@ -43,32 +62,16 @@ Here’s a tailored GitHub profile README design for you:
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkushwaha7&theme=dark" alt="GitHub Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkushwaha7&theme=radical&fire=FF6010" alt="GitHub Streaks" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshkushwaha7&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshkushwaha7&layout=compact&langs_count=8&theme=dark" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshkushwaha7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshkushwaha7&layout=compact&langs_count=8&theme=radical" alt="Languages" />
 </p>
 
 ---
 
-### 🌟 **Quote**
+### 🌟 **Quote**  
 *"Technology is best when it brings people together."* – Matt Mullenweg
-
-
-<!--
-**riteshkushwaha7/riteshkushwaha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
