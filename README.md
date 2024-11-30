@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kushwaha</h1>
-<h3 align="center">A passionate Web Developer and Problem Solver from India</h3>
+<h3 align="center">A passionate Web Developer and Problem Solver</h3>
 
 <p align="center">
   <img src="https://github.com/riteshkushwaha7.png" alt="Ritesh Kushwaha's GitHub Profile" width="150" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&width=435&lines=Web+Developer+|+Problem+Solver;Cybersecurity+Enthusiast;Graduating+in+2027" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&width=435&lines=Web+Developer+|+Problem+Solver;Graduating+in+2027" alt="Typing Animation"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ### 🔭 **About Me**  
 - 🎓 **Education:** IT Student | 2nd Year @ UIT RGPV  
-- 🌱 **Interests:** Software Development & Cybersecurity  
+- 🌱 **Interests:** Software Development 
 - 🎯 **Currently Working On:**  
   - [CodeAdept Website](https://github.com/riteshkushwaha7/Projects/tree/main/CodeAdept%208.0)  
   - [My Portfolio](https://github.com/riteshkushwaha7/My-Portfolio)
