@@ -13,8 +13,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riteshkushwaha7&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Cybersecurity-gradient?style=for-the-badge" alt="Focus Badge" />
-  <img src="https://img.shields.io/github/followers/riteshkushwaha7?style=for-the-badge" alt="Followers Badge" />
+<!--   <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Cybersecurity-gradient?style=for-the-badge" alt="Focus Badge" />
+  <img src="https://img.shields.io/github/followers/riteshkushwaha7?style=for-the-badge" alt="Followers Badge" /> -->
 </p>
 
 ---
