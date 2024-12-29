@@ -4,7 +4,7 @@
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/riteshkushwaha7/count.svg" />
 
-### Here are some ideas to help you get started:
+### Here are something about myself:
 
 - 🔭 I’m currently diving deep into <strong>Web Development</strong> and sharpening my skills in <strong>Problem Solving</strong>
 - 🌱 Actively expanding my knowledge in <strong>React.js</strong> and <strong>Node.js</strong> to build dynamic applications
