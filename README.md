@@ -15,14 +15,15 @@
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
 <a href="mailto:riteshkushwaha497@gmail.com">
-  <img src="https://img.shields.io/badge-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/riteshkushwaha7">
-  <img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://twitter.com/cyberrk">
-  <img src="https://img.shields.io/badge/-%2311ACD4.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-%2311ACD4.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
+
 
 ### Tools I work upon : 🛠
 
