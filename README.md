@@ -4,9 +4,7 @@
 
 # Ritesh Kushwaha
 
-**Full-Stack Developer • Competitive Programmer • Building in Production While Still in College**
-
-<img src="https://profile-counter.glitch.me/riteshkushwaha7/count.svg" alt="Profile Views"/>
+**Full-Stack Developer • Building in Production While Still in College**
 
 <a href="mailto:riteshkushwaha497@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/riteshkushwaha7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -20,7 +18,9 @@
 ### 🧭 About Me
 
 - 🎓 Pre-final year **B.Tech IT** student at UIT (Autonomous) RGPV, Bhopal — Class of 2027
-- 💬 Ask me about DSA, System Design, Next.js/FastAPI, or ML pipelines
+- 🚀 Leading roles: **Executive Head** @ DoIT Coding Club | **Secretary** @ ASPER
+- 🔭 Currently building **AirWise**, **StoqIntelli**, and **GRIDMIND**
+- 💬 Ask me about System Design, Next.js/FastAPI, or ML pipelines
 
 ---
 
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white">
@@ -65,7 +67,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshkushwaha7&layout=compact&langs_count=8&theme=radical" width="48%"/>
-  <img src="https://leetcard.jacoblin.cool/riteshkushwaha7?theme=dark&font=Karla&ext=heatmap" width="48%"/>
 </p>
 
 <p align="center">
