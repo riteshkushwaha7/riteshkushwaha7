@@ -17,9 +17,9 @@
 
 ### 🧭 About Me
 
-- 🎓 Pre-final year **B.Tech IT** student at UIT (Autonomous) RGPV, Bhopal — Class of 2027
-- 🚀 Leading roles: **Executive Head** @ DoIT Coding Club | **Secretary** @ ASPER
-- 🔭 Currently building **AirWise**, **StoqIntelli**, and **GRIDMIND**
+- 🎓 Final year **B.Tech IT** student at UIT (Autonomous) RGPV, Bhopal — Class of 2027
+- 🚀 Leading roles: **Ex- Executive Head** @ DoIT Coding Club | **Ex-Secretary** @ ASPER
+- 🔭 Currently building **StoqIntelli**
 - 💬 Ask me about System Design, Next.js/FastAPI, or ML pipelines
 
 ---
